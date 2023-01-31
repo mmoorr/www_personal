@@ -5,7 +5,6 @@ papers:
     data: "https://voterfraud2020.io/"
     venue: "ICWSM'21: International AAAI Conference on Web and Social Media. 2021."
     paper_pdf: "https://arxiv.org/abs/2101.08210"
-    prereg: "test"
     selected: y
 
   - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
