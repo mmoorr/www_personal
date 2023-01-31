@@ -1,34 +1,17 @@
 papers:
 
   - title: "VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter"
-    author: "Anton Abilov, Yiqing Hua, Hana Matatov, Ofra Amir, Mor Naaman"
+    authors: "Anton Abilov, Yiqing Hua, Hana Matatov, Ofra Amir, Mor Naaman"
     data: "https://voterfraud2020.io/"
     venue: "ICWSM'21: International AAAI Conference on Web and Social Media. 2021."
     paper_pdf: "https://arxiv.org/abs/2101.08210"
     selected: y
 
-  - title: "Social Catalysts: Characterizing People Who Spark Conversations Among Others"
-    authors: "<b>Martin Saveski</b>, Farshad Kooti, Sylvia Morelli Vitousek, Carlos Diuk, Bryce Bartlett, Lada Adamic"
-    venue: "CSCW'21: Conference on Computer-Supported Cooperative Work and Social Computing"
-    paper_pdf: "/assets/publications/2021_social_catalysts/paper.pdf"
-    code: "https://github.com/facebookresearch/social-catalysts"
-    selected: n
-
-  - title: "Balanced Influence Maximization in the Presence of Homophily"
-    authors: "Md Sanzeed Anwar, <b>Martin Saveski</b>, Deb Roy"
-    venue: "WSDM'21: International Conference on Web Search and Data Mining"
-    paper_pdf: "/assets/publications/2021_balanced_inf_max/paper.pdf"
-    code: "https://github.com/sanzeed/balanced_influence_maximization"
-    data: "https://github.com/sanzeed/balanced_influence_maximization"
-    selected: y
-
-  - title: "Algorithmic and Human Prediction of Success in Human Collaboration From Visual Features"
-    authors: "<b>Martin Saveski<sup>‡</sup></b>, Edmond Awad<sup>‡</sup>, Iyad Rahwan, Manuel Cebrian"
-    venue: "Nature Scientific Reports. 2021"
-    paper_pdf: "/assets/publications/2021_esc_the_room/paper.pdf"
-    code: "https://doi.org/10.7910/DVN/HDT2RN"
-    data: "https://doi.org/10.7910/DVN/HDT2RN"
-    selected: n
+    - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
+      authors: "Zhicong Lu, Yue Jiang, Chenxinran Shen, Margaret Jack, Daniel Wigdor, Mor Naaman"
+      venue: "CSCW 2021"
+      sourceLink: "https://cscw.acm.org/2021/"
+      paper_pdf: "https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf"
 
   - title: "Testing for Arbitrary Interference on Experimentation Platforms"
     authors: "Jean Pouget-Abadie, Guillaume Saint-Jacques<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
