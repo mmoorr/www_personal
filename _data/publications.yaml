@@ -7,11 +7,11 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2101.08210"
     selected: y
 
-    - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
-      authors: "Zhicong Lu, Yue Jiang, Chenxinran Shen, Margaret Jack, Daniel Wigdor, Mor Naaman"
-      venue: "CSCW 2021"
-      sourceLink: "https://cscw.acm.org/2021/"
-      paper_pdf: "https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf"
+  - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
+    authors: "Zhicong Lu, Yue Jiang, Chenxinran Shen, Margaret Jack, Daniel Wigdor, Mor Naaman"
+    venue: "CSCW 2021"
+    sourceLink: "https://cscw.acm.org/2021/"
+    paper_pdf: "https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf"
 
   - title: "Testing for Arbitrary Interference on Experimentation Platforms"
     authors: "Jean Pouget-Abadie, Guillaume Saint-Jacques<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
