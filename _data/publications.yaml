@@ -5,6 +5,7 @@ papers:
     data: "https://voterfraud2020.io/"
     venue: "ICWSM'21: International AAAI Conference on Web and Social Media. 2021."
     paper_pdf: "https://arxiv.org/abs/2101.08210"
+    prereg: "test"
     selected: y
 
   - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
@@ -21,10 +22,30 @@ papers:
     paper_pdf: "https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf"
     selected: y
 
-  - title: "Observational Causal Inference Using Network Information"
-    authors: "Yan Leng, <b>Martin Saveski</b>, Alex ‘Sandy’ Pentland, Dean Eckles"
-    venue: "NeurIPS'19, Workshop on Graph Representation Learning. 2019."
-    selected: n
+  - title: "How Partisan Crowds Affect News Evaluation"
+    authors: "Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman"
+    venue: "Truth and Trust Online (TTO) 2020"
+    sourceLink: "https://truthandtrustonline.com/"
+    paper_pdf: "https://mauricejakesch.com/assets/pdf/tto2020_partisan_crowd_influence.pdf"
+
+  - title: "AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations"
+    authors: "Jeffrey T Hancock, Mor Naaman, Karen Levy"
+    venue: "Journal of Computer Mediated Communication 25(1)"
+    sourceLink: "https://academic.oup.com/jcmc/"
+    paper_pdf: "https://academic.oup.com/jcmc/advance-article/doi/10.1093/jcmc/zmz022/5714020?guestAccessKey=97e8ea81-4939-4442-8f4e-c2613e1bbed0"
+
+  - title: "Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections"
+    authors: "Yiqing Hua, Thomas Ristenpart, Mor Naaman. "
+    venue: "ICWSM 2020"
+    sourceLink: "https://www.icwsm.org/2020/index.html"
+    paper_pdf: "http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf"
+
+  - title: "Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates"
+    authors: "Yiqing Hua, Mor Naaman, Thomas Ristenpart"
+    venue: "CHI 2020"
+    sourceLink: "https://chi2020.acm.org/"
+    paper_pdf: "http://yiqing-hua.com/papers/adversarial_user_chi2020.pdf"
+    award: "Best Paper Honorable Mention"
 
   - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization"
     authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
