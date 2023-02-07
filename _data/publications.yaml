@@ -71,12 +71,26 @@ papers:
     paper_pdf: "https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf"
     selected: n
 
+  - title: "# Trend Alert: How a Cross-Platform Organization Manipulated Twitter Trends in the Indian General Election"
+    authors: "Maurice Jakesch, Kiran Garimella, Dean Eckles, Mor Naaman"
+    venue: "CSCW 2021"
+    sourceLink: "https://cscw.acm.org/2021/"
+    paper_pdf: "https://arxiv.org/abs/2104.13259"
+    selected: n  
+
   - title: "AI-Mediated Communication: Language Use and Interpersonal Effects in a Referential Communication Task"
     authors: "Hannah Mieczkowski, Jeffrey T. Hancock, Mor Naaman, Malte Jung, Jess Hohenstein"
     venue: "CSCW 2021"
     sourceLink: "https://cscw.acm.org/2021/"
     paper_pdf: "https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf"
     selected: n
+
+  - title: "Artificial intelligence in communication impacts language and social relationships"
+    authors: "Jess Hohenstein, Dominic DiFranzo, Rene F Kizilcec, Zhila Aghajari, Hannah Mieczkowski, Karen Levy, Mor Naaman, Jeff Hancock, Malte Jung"
+    venue: "ArXiv preprint"
+    sourceLink: ""
+    paper_pdf: "https://arxiv.org/abs/2102.05756"
+    selected: n  
 
   - title: "How Partisan Crowds Affect News Evaluation"
     authors: "Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman"
