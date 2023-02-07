@@ -103,6 +103,7 @@ papers:
     venue: "Journal of Computer Mediated Communication 25(1)"
     sourceLink: "https://academic.oup.com/jcmc/"
     paper_pdf: "https://academic.oup.com/jcmc/advance-article/doi/10.1093/jcmc/zmz022/5714020?guestAccessKey=97e8ea81-4939-4442-8f4e-c2613e1bbed0"
+    year: "2020"
     selected: y
 
   - title: "Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections"
