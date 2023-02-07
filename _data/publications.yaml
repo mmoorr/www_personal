@@ -1,6 +1,5 @@
 papers:
 
-
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
     venue: "In Press"
@@ -36,7 +35,7 @@ papers:
     sourceLink: "https://cscw.acm.org/2022/"
     paper_pdf: "https://arxiv.org/abs/2203.10143"
     selected: y
-	
+
   - title: "Stop the [Image] Steal: The Role and Dynamics of Visual Content in the 2020 US Election Misinformation Campaign"
     authors: "Hana Matatov, Mor Naaman, Ofra Amir"
     venue: "CSCW 2022"
