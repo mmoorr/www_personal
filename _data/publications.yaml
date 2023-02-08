@@ -4,6 +4,7 @@ papers:
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
     venue: "In Press"
     sourceLink: ""
+    data: "https://osf.io/284yv/"
     paper_pdf: "https://arxiv.org/abs/2206.07271"
     year: "2023"
     selected: y  
@@ -13,6 +14,7 @@ papers:
     venue: "CHI 2023"
     sourceLink: "https://chi2023.acm.org/"
     paper_pdf: "https://arxiv.org/abs/2302.00560"
+    data: "https://osf.io/upgqw/"
     selected: y
 
   - title: "Belief in partisan news depends on favorable content more than on a trusted source"
@@ -41,7 +43,8 @@ papers:
     authors: "Hana Matatov, Mor Naaman, Ofra Amir"
     venue: "CSCW 2022"
     sourceLink: "https://cscw.acm.org/2022/"
-    paper_pdf: ""
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3555599"
+    data: "https://dl.acm.org/doi/abs/10.1145/3555599#sec-supp"
     selected: n  
 
   - title: "Characterizing Reddit Participation of Users Who Engage in the QAnon Conspiracy Theories"
@@ -49,6 +52,7 @@ papers:
     venue: "CSCW 2022"
     sourceLink: "https://cscw.acm.org/2022/"
     paper_pdf: ""
+    data: "https://github.com/sTechLab/QAnon_users_on_Reddit"
     selected: n  
 
   - title: "Increasing adversarial uncertainty to scale private similarity testing"
@@ -112,14 +116,16 @@ papers:
     authors: "Yiqing Hua, Thomas Ristenpart, Mor Naaman. "
     venue: "ICWSM 2020"
     sourceLink: "https://www.icwsm.org/2020/index.html"
-    paper_pdf: "http://yiqing-hua.com/papers/adversarial_candidates_icwsm2020.pdf"
+    paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/7298/7152"
+    data: "https://figshare.com/articles/dataset/U_S_Midterm_Election_Twitter_Dataset_2018/11374062"
     selected: n
 
   - title: "Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates"
     authors: "Yiqing Hua, Mor Naaman, Thomas Ristenpart"
     venue: "CHI 2020"
     sourceLink: "https://chi2020.acm.org/"
-    paper_pdf: "http://yiqing-hua.com/papers/adversarial_user_chi2020.pdf"
+    paper_pdf: "https://arxiv.org/abs/2005.04412"
+    data: "https://figshare.com/articles/U_S_Midterm_ Election_Twitter_Dataset_2018/11374062"
     award: "Best Paper Honorable Mention"
     selected: y
     
@@ -153,6 +159,8 @@ papers:
     venue: "CHI 2019"
     sourceLink: "https://chi2019.acm.org/"
     paper_pdf: "https://www.mauricejakesch.com/assets/pdf/chi2019__ai_mc_camera_ready.pdf"
+    prereg: "https://osf.io/qg3m2/registrations"
+    data: "https://osf.io/qg3m2/"
     selected: y
 
   - title: "DejaVu: A System for Journalists to Collaboratively Address Visual Misinformation"
@@ -190,6 +198,7 @@ papers:
     venue: "NAACL 2018"
     sourceLink: "http://naacl2018.org/"
     paper_pdf: "https://s.tech.cornell.edu/assets/papers/newsroom.pdf"
+    data: "https://lil.nlp.cornell.edu/newsroom/index.html"
 
   - title: "Web-based VR Experiments Powered by the Crowd"
     authors: "Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman"
