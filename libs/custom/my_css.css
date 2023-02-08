@@ -28,6 +28,13 @@ h4 {
   font-weight: 100;
   line-height: 25px;
   text-transform: none; }
+.paper .award {
+  display: inline-block;
+  height: 25px;
+  padding: 0 25px;
+  font-weight: 100;
+  line-height: 25px;
+  text-transform: none; }
 .section-header {
   text-transform: uppercase;
   font-size: 1.5rem;
