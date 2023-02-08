@@ -20,6 +20,7 @@ papers:
     venue: "PsyArXiv Preprint"
     sourceLink: ""
     paper_pdf: "https://psyarxiv.com/tex3n/download"
+    year: "2023"
     selected: n
 
   - title: "Information Needs of Essential Workers During the COVID-19 Pandemic"
@@ -60,7 +61,7 @@ papers:
   - title: "VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter"
     authors: "Anton Abilov, Yiqing Hua, Hana Matatov, Ofra Amir, Mor Naaman"
     data: "https://voterfraud2020.io/"
-    venue: "ICWSM'21: International AAAI Conference on Web and Social Media. 2021."
+    venue: "ICWSM 2021"
     paper_pdf: "https://arxiv.org/abs/2101.08210"
     selected: y
 
@@ -90,6 +91,7 @@ papers:
     venue: "ArXiv preprint"
     sourceLink: ""
     paper_pdf: "https://arxiv.org/abs/2102.05756"
+    year: "2021"
     selected: n  
 
   - title: "How Partisan Crowds Affect News Evaluation"
@@ -155,13 +157,13 @@ papers:
 
   - title: "DejaVu: A System for Journalists to Collaboratively Address Visual Misinformation"
     authors: "Hana Matatov, Adina Bechhofer, Lora Aroyo, Ofra Amir, Mor Naaman"
-    venue: "Computation + Journalism"
+    venue: "Computation + Journalism 2019"
     sourceLink: "http://cplusj.org/"
     paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/Matatov_cplusj_dejavu.pdf"
 
   - title: "The Role of Source and Expressive Responding in Political News Evaluation"
     authors: "Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman"
-    venue: "Computation + Journalism"
+    venue: "Computation + Journalism 2019"
     sourceLink: "http://cplusj.org/"
     paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf"
 
@@ -323,6 +325,7 @@ papers:
     authors: "Funda Kivran-Swaine, Samuel Brody, Mor Naaman"
     venue: "First Monday"
     paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/KivranSwaine_1stMonday_EffectsGenderTwitterInteractions.pdf"
+    year: "2013"
 
   - title: "Extracting Diurnal Patterns of Real World Activity from Social Media"
     authors: "Nir Grinberg, Mor Naaman, Blake Shaw, Gilad Lotan"
@@ -379,6 +382,14 @@ papers:
     venue: "New Media & Society"
     sourceLink: "http://nms.sagepub.com/"
     paper_pdf: "https://journals.sagepub.com/doi/full/10.1177/1461444811417284"
+    year: "2012"
+
+  - title: "Social multimedia: highlighting opportunities for search and mining of multimedia data in social media applications"
+    year: "2012"
+    authors: "Mor Naaman"
+    venue: "Multimedia Tools and Applications, 56"
+    sourceLink: "http://www.springer.com/computer/information+systems+and+applications/journal/11042"
+    paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/Naaman2010MTAPsocialMultimedia.pdf"
 
   - title: "Beyond Trending Topics: Real-World Event Identification on Twitter"
     authors: "Hila Becker, Mor Naaman, Luis Gravano"
@@ -398,6 +409,7 @@ papers:
     venue: "JASIST"
     sourceLink: "http://www.asis.org/jasist.html"
     paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/Naaman2011JasistHipTrendy.pdf"
+    year: "2011"
 
   - title: "The Impact of Network Structure on Breaking Ties in Online Social Networks: Unfollowing on Twitter"
     authors: "Funda Kivran-Swaine, Priya Govindan, Mor Naaman"
@@ -423,36 +435,19 @@ papers:
     sourceLink: "http://cscw2011.org/"
     paper_pdf: "https://dl.acm.org/authorsize?N26253"
 
-  - title: "Social multimedia: highlighting opportunities for search and mining of multimedia data in social media applications"
-    year: "2010"
-    authors: "Mor Naaman"
-    venue: "MTAPP"
-    sourceLink: "http://www.springer.com/computer/information+systems+and+applications/journal/11042"
-    paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/Naaman2010MTAPsocialMultimedia.pdf"
-
   - title: "Diamonds in the Rough: Social Media Visual Analytics for Journalistic Inquiry"
-    year: "2010"
     authors: "Nicholas Diakopoulos, Mor Naaman, Funda Kivran-Swaine"
     venue: "VAST 2010"
     sourceLink: "http://vis.computer.org/VisWeek2010/vast.html"
     paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/DiakVast10.pdf"
 
-  - title: "Analysis of Participation in an Online Photo-Sharing Community: A Multidimensional Perspective"
-    year: "2010"
-    authors: "Oded Nov, Mor Naaman, Chen Ye"
-    venue: "JASIST"
-    sourceLink: "http://www.asis.org/jasist.html"
-    paper_pdf: "http://infolab.stanford.edu/~mor/research/NovNaamanYeJASIST2010.pdf"
-
   - title: "Learning Similarity Metrics for Event Identification in Social Media"
-    year: "2010"
     authors: "Hila Becker, Mor Naaman, Luis Gravano"
     venue: "WSDM 2010"
     sourceLink: "http://www.wsdm-conference.org/2010/"
     paper_pdf: "https://dl.acm.org/authorsize?N26265"
 
   - title: "Is it Really About Me? Message Content in Social Awareness Streams"
-    year: "2010"
     authors: "Mor Naaman, Jeff Boase, Chih-Hui Lai"
     venue: "CSCW 2010"
     sourceLink: "http://www.cscw2010.org/"
@@ -462,9 +457,16 @@ papers:
   - title: "Requirements for Mobile Photoware"
     year: "2010"
     authors: "Morgan Ames, Dean Eckles, Mor Naaman, Mirjana Spasojevic, Nancy Van House"
-    venue: "Personal and Ubiquitous Computing"
+    venue: "Journal of Personal and Ubiquitous Computing, 14"
     sourceLink: "http://www.springerlink.com/content/106503/?p=55e89f8ab2c14cba9ec78c759b9e796c&pi=0"
     paper_pdf: "https://link.springer.com/article/10.1007/s00779-009-0237-4"
+
+  - title: "Analysis of Participation in an Online Photo-Sharing Community: A Multidimensional Perspective"
+    year: "2009"
+    authors: "Oded Nov, Mor Naaman, Chen Ye"
+    venue: "Journal of the American Society for Information Science and Technology, 61"
+    sourceLink: "http://www.asis.org/jasist.html"
+    paper_pdf: "http://infolab.stanford.edu/~mor/research/NovNaamanYeJASIST2010.pdf"
 
   - title: "Social Inference Risk Modeling in Mobile and Social Applications"
     authors: "Sara Motahari, Sotirios Ziavras, Mor Naaman, Mohamed Ismail, Quentin Jones"
@@ -486,7 +488,6 @@ papers:
     award: "Best Paper Award"
   
   - title: "Less Talk, More Rock: Automated Organization of Community-Contributed Collections of Concert Videos"
-    year: "2009"
     authors: "Lyndon Kennedy, Mor Naaman"
     venue: "WWW 2009"
     sourceLink: "http://www.www2009.org/"
@@ -513,42 +514,36 @@ papers:
     paper_pdf: "http://infolab.stanford.edu/~mor/research/kennedy-www08.pdf"
 
   - title: "Photos on the Go: A Mobile Application Case Study"
-    year: "2008"
     authors: "Mor Naaman, Rahul Nair, Vlad Kaplun"
     venue: "CHI 2008"
     sourceLink: "http://chi2008.org/"
     paper_pdf: "http://infolab.stanford.edu/~mor/research/Naaman-chi08-photosmobile.pdf"
 
   - title: "What Drives Content Tagging: The Case of Photos on Flickr"
-    year: "2008"
     authors: "Oded Nov, Mor Naaman, Chen Ye"
     venue: "CHI 2008"
     sourceLink: "http://chi2008.org/"
     paper_pdf: "http://infolab.stanford.edu/~mor/research/Nov-CHI08-whatdrivestagging.pdf"
 
   - title: "How Flickr Helps us Make Sense of the World: Context and Content in Community-Contributed Media Collections."
-    year: "2007"
     authors: "Lyndon Kennedy, Mor Naaman, Shane Ahern, Rahul Nair, Tye Rattenbury"
     venue: "ACM Multimedia 2007"
     sourceLink: "http://mmc36.informatik.uni-augsburg.de/acmmm2007/"
     paper_pdf: "http://infolab.stanford.edu/~mor/research/kennedyMM07.pdf"
 
   - title: "Zurfer: Mobile Multimedia Access in Spatial, Social and Topical Context"
-    year: "2007"
     authors: "Amy Hwang, Shane Ahern, Simon King, Mor Naaman, Rahul Nair, Jeannie Yang"
     venue: "ACM Multimedia 2007"
     sourceLink: "http://mmc36.informatik.uni-augsburg.de/acmmm2007/"
     paper_pdf: "http://infolab.stanford.edu/~mor/research/hwang-mm07-zurfer.pdf"
 
   - title: "Towards Automatic Extraction of Event and Place Semantics from Flickr Tags"
-    year: "2007"
     authors: "Tye Rattenbury, Nathan Good, Mor Naaman"
     venue: "SIGIR 2007"
     sourceLink: "http://www.sigir2007.org/"
     paper_pdf: "http://infolab.stanford.edu/~mor/research/sigir2007rattenburyTagSemantics.pdf"
 
   - title: "World Explorer: Visualizing Aggregate Data from Unstructured Text in Geo-Referenced Collections"
-    year: "2007"
     authors: "Shane Ahern, Mor Naaman, Rahul Nair, Jeannie Yang"
     venue: "JCDL 2007"
     sourceLink: "http://www.jcdl2007.org/"
@@ -557,7 +552,6 @@ papers:
     selected: y
 
   - title: "Why We Tag: Motivations for Annotation in Mobile and Online Media"
-    year: "2007"
     authors: "Morgan Ames, Mor Naaman"
     venue: "CHI 2007"
     sourceLink: "http://chi2007.org/"
@@ -565,7 +559,6 @@ papers:
     selected: y
 
   - title: "Over-Exposed? Privacy Patterns and Considerations in Online and Mobile Photo Sharing"
-    year: "2007"
     authors: "Shane Ahern, Dean Eckles, Nathan Good, Simon King, Mor Naaman, Rahul Nair"
     venue: "CHI 2007"
     sourceLink: "http://chi2007.org/"
@@ -578,14 +571,12 @@ papers:
     paper_pdf: "http://infolab.stanford.edu/~mor/research/naamanComp06.pdf"
 
   - title: "Generating Summaries and Visualization for Large Collections of Geo-Referenced Photographs"
-    year: "2006"
     authors: "Alexander Jaffe, Mor Naaman, Tamir Tassa, Marc Davis"
     venue: "MIR 2006"
     sourceLink: "http://riemann.ist.psu.edu/mir2006/"
     paper_pdf: "http://infolab.stanford.edu/~mor/research/mir609-jaffe.pdf"
 
   - title: "HT06, Tagging Paper, Taxonomy, Flickr, Academic Article, ToRead"
-    year: "2006"
     authors: "Cameron Marlow, Mor Naaman, danah boyd, Marc Davis"
     venue: "HYPERTEXT 2006"
     sourceLink: "http://ht06.org/"
@@ -600,7 +591,6 @@ papers:
     extraInfo: "For a shoter read: [Introduction Only](http://infolab.stanford.edu/~mor/research/naamanthesisintro.pdf)"
 
   - title: "Leveraging Context to Resolve Identity in Photo Albums"
-    year: "2005"
     authors: "Mor Naaman, Ron B. Yeh, Hector Garcia-Molina, Andreas Paepcke"
     venue: "JCDL 2005"
     sourceLink: "http://www.jcdl2005.org/"
@@ -614,7 +604,6 @@ papers:
     paper_pdf: "http://dbpubs.stanford.edu/pub/2005-18"
 
   - title: "Context Data in Geo-Referenced Digital Photo Collections"
-    year: "2004"
     authors: "Mor Naaman, Susumu Harada, QianYing Wang, Hector Garcia-Molina, Andreas Paepcke"
     venue: "ACM Multimedia 2004"
     sourceLink: "http://www.mm2004.org/"
@@ -636,14 +625,12 @@ papers:
     selected: y
 
   - title: "Lost in Memories: Interacting With Large Photo Collections on PDAs"
-    year: "2004"
     authors: "Susumu Harada, Mor Naaman, Yee Jiun Song, QianYing Wang, Andreas Paepcke"
     venue: "JCDL 2004"
     sourceLink: "http://www.jcdl2004.org/"
     paper_pdf: "http://dbpubs.stanford.edu/pub/2004-31"
 
   - title: "From Where to What: Metadata Sharing for Digital Photographs with Geographic Coordinates"
-    year: "2003"
     authors: "Mor Naaman, Andreas Paepcke, Hector Garcia-Molina"
     venue: "COOPIS 2003"
     sourceLink: "http://www.cs.rmit.edu.au/fedconf/coopis/2003/"
