@@ -75,6 +75,10 @@ title: Home
               <a class="button" href="{{ paper.prereg }}" target="_blank">Pre Reg</a>
             {% endif %}
 
+            {% if paper.award %}
+              <a class="button" href="" target="_blank">{{ paper.award }}</a>
+            {% endif %}
+
           </div>
         </div>
       {% endfor %}
@@ -113,6 +117,10 @@ title: Home
 
             {% if paper.prereg %}
               <a class="button" href="{{ paper.prereg }}" target="_blank">Pre Reg</a>
+            {% endif %}
+
+            {% if paper.award %}
+              <a class="button" href="" target="_blank">{{ paper.award }}</a>
             {% endif %}
 
           </div>
