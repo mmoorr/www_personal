@@ -216,6 +216,7 @@ papers:
     authors: "Xiao Ma, Trishala Neeraj, Mor Naaman"
     venue: "ICWSM 2017"
     sourceLink: "http://www.icwsm.org/2017/"
+    data: "https://github.com/sTechLab/AirbnbHosts-Extended"
     paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/14937/14787"
 
   - title: "MoveMeant: Anonymously Building Community Through Shared Location Histories"
@@ -240,6 +241,7 @@ papers:
     authors: "Xiao Ma, Jeff Hancock, Kenneth Lim Mingjie, Mor Naaman "
     venue: "CSCW 2017"
     sourceLink: "https://cscw.acm.org/2017/"
+    data: "https://github.com/sTechLab/AirbnbHosts"
     paper_pdf: "https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf"
     award: "Best Paper Honorable Mention"
     selected: y
