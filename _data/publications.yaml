@@ -5,9 +5,10 @@ papers:
     venue: "In Press"
     sourceLink: ""
     data: "https://osf.io/284yv/"
+    prereg: "https://aspredicted.org/bz7x7.pdf"
     paper_pdf: "https://arxiv.org/abs/2206.07271"
     year: "2023"
-    selected: y  
+    selected: y
 
   - title: "Co-Writing with Opinionated Language Models Affects Users' Views"
     authors: "Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, Mor Naaman"
