@@ -135,7 +135,7 @@ title: Home
   <h4>Recent News</h4>
   {% for news_item in site.data.news.news_items %}
   <p>
-    <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank" (more info)</a>{% endif %}.
+    <b>{{ news_item.date }}</b>. {{ news_item.item }}{% if news_item.link %} <a href="{{ news_item.link }}" target="_blank">(more info)</a>{% endif %}.
   </p>
   {% endfor %}
 
