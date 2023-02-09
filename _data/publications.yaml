@@ -636,7 +636,6 @@ papers:
     paper_pdf: "http://dbpubs.stanford.edu/pub/2004-26"
 
   - title: "Automatic Organization for Digital Photographs with Geographic Coordinates"
-    year: "2004"
     authors: "Mor Naaman, Yee Jiun Song, Andreas Paepcke, Hector Garcia-Molina"
     venue: "JCDL 2004"
     sourceLink: "http://www.jcdl2004.org/"
