@@ -8,7 +8,7 @@
   <title>{{ site.data.main_info.name }} | {{ page.title }}</title>
   <meta name="description" content="Homepage for Mor Naaman, Information Science Professor at Cornell Tech.">
   <meta name="author" content="Mor">
-  <meta property="og:title" content="Mor Naaman" />
+  <meta property="og:title" content="Mor Naaman | Home" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http://www.mornaaman.com" />
   <meta property="og:site_name" content="Mor Naaman" />
@@ -59,6 +59,12 @@
   <link rel="icon" type="image/png" href={{ "/libs/favicon.png" | prepend: site.baseurl }}>
   <link rel="shortcut icon" type="image/png" href={{ "/libs/favicon.png" | prepend: site.baseurl }}>
 
+  <!-- Mastodon Linkback
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  {% if site.data.main_info.mastodon %}
+  <link href="{{ site.data.main_info.mastodon }}" rel="me">
+  {% endif %} 
+  
 </head>
 <body>
 
@@ -76,17 +82,22 @@
             <p>{{ site.data.main_info.title }}</p>
             <p>{{ site.data.main_info.email }}</p>
             <p>
+              {{ 
               <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </span>
 
+              {% if site.data.main_info.linkedin %}
               <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
                 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
               </span>
+              {% endif %}
 
+              {% if site.data.main_info.github %}
               <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
                 <i class="fa fa-github" aria-hidden="true"></i>
               </span>
+              {% endif %}
 
               <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
                 <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
@@ -123,12 +134,16 @@
           <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
             <i class="fa fa-twitter" aria-hidden="true"></i>
           </span>
+          {% if site.data.main_info.linkedin %}
           <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
             <i class="fa fa-linkedin-square" aria-hidden="true"></i>
           </span>
+          {% endif %}
+          {% if site.data.main_info.github %}
           <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
             <i class="fa fa-github" aria-hidden="true"></i>
           </span>
+          {% endif %}
           <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
             <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
           </span>
