@@ -82,10 +82,11 @@
             <p>{{ site.data.main_info.title }}</p>
             <p>{{ site.data.main_info.email }}</p>
             <p>
-              {{ 
+              {{ if site.data.main_info.twitter %}
               <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </span>
+              {% endif %}
 
               {% if site.data.main_info.linkedin %}
               <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
@@ -99,9 +100,11 @@
               </span>
               {% endif %}
 
+              {% if site.data.main_info.google_scholar %}              
               <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
                 <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
               </span>
+              {% endif %}
             </p>
         </div>
       </div>
@@ -131,9 +134,11 @@
           {{ site.data.main_info.email }}
         </div>
         <div class="four columns">
+          {% if site.data.main_info.twitter %}
           <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
             <i class="fa fa-twitter" aria-hidden="true"></i>
           </span>
+          {% endif %}
           {% if site.data.main_info.linkedin %}
           <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
             <i class="fa fa-linkedin-square" aria-hidden="true"></i>
@@ -144,9 +149,11 @@
             <i class="fa fa-github" aria-hidden="true"></i>
           </span>
           {% endif %}
+          {% if site.data.main_info.google_scholar %}
           <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
             <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
           </span>
+          {% endif %}
         </div>
       </div>
     </div>
