@@ -18,6 +18,14 @@ papers:
     data: "https://osf.io/upgqw/"
     selected: y
 
+  - title: "Artificial Intelligence in Communication Impacts Language and Social Relationships"
+    authors: "Jess Hohenstein, Dominic DiFranzo, Rene F Kizilcec, Zhila Aghajari, Hannah Mieczkowski, Karen Levy, Mor Naaman, Jeff Hancock, Malte Jung"
+    venue: "In Press"
+    sourceLink: ""
+    paper_pdf: "https://arxiv.org/abs/2102.05756"
+    year: "2023"
+    selected: y
+
   - title: "Belief in partisan news depends on favorable content more than on a trusted source"
     authors: "Maurice Jakesch, Mor Naaman, Michael Macy"
     venue: "PsyArXiv Preprint"
@@ -98,14 +106,6 @@ papers:
     sourceLink: "https://cscw.acm.org/2021/"
     paper_pdf: "https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf"
     selected: n
-
-  - title: "Artificial intelligence in communication impacts language and social relationships"
-    authors: "Jess Hohenstein, Dominic DiFranzo, Rene F Kizilcec, Zhila Aghajari, Hannah Mieczkowski, Karen Levy, Mor Naaman, Jeff Hancock, Malte Jung"
-    venue: "ArXiv preprint"
-    sourceLink: ""
-    paper_pdf: "https://arxiv.org/abs/2102.05756"
-    year: "2021"
-    selected: n  
 
   - title: "How Partisan Crowds Affect News Evaluation"
     authors: "Maurice Jakesch, Moran Koren, Anna Evtushenko, Mor Naaman"
