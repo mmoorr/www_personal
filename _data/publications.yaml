@@ -2,11 +2,11 @@ papers:
 
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
-    venue: "In Press"
+    venue: "Proceedings of the National Academy of Sciences (PNAS)"
     sourceLink: ""
     data: "https://osf.io/284yv/"
     prereg: "https://aspredicted.org/bz7x7.pdf"
-    paper_pdf: "https://arxiv.org/abs/2206.07271"
+    paper_pdf: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
     year: "2023"
     selected: y
 
