@@ -1,5 +1,9 @@
 news_items:
 
+  - item: "Our paper is out in the Proceedings of the National Academy of Sciences (PNAS)"
+    date: "March 2023"
+    link: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
+
   - item: "Gave keynote talk at ACM RecSys 2022 on AI-mediated Communication"
     date: "Sep 2022"
     link: "https://recsys.acm.org/recsys22/keynotes/#content-tab-1-1-tab"
