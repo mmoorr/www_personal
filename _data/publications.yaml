@@ -3,7 +3,8 @@ papers:
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
     venue: "Proceedings of the National Academy of Sciences (PNAS)"
-    sourceLink: ""
+    sourceLink: "https://www.pnas.org"
+    preprint: "https://arxiv.org/abs/2102.05756"
     data: "https://osf.io/284yv/"
     prereg: "https://aspredicted.org/bz7x7.pdf"
     paper_pdf: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
@@ -14,7 +15,7 @@ papers:
     authors: "Maurice Jakesch, Advait Bhat, Daniel Buschek, Lior Zalmanson, Mor Naaman"
     venue: "CHI 2023"
     sourceLink: "https://chi2023.acm.org/"
-    paper_pdf: "https://arxiv.org/abs/2302.00560"
+    preprint: "https://arxiv.org/abs/2302.00560"
     data: "https://osf.io/upgqw/"
     selected: y
 
@@ -22,7 +23,7 @@ papers:
     authors: "Jess Hohenstein, Dominic DiFranzo, Rene F Kizilcec, Zhila Aghajari, Hannah Mieczkowski, Karen Levy, Mor Naaman, Jeff Hancock, Malte Jung"
     venue: "In Press"
     sourceLink: ""
-    paper_pdf: "https://arxiv.org/abs/2102.05756"
+    preprint: "https://arxiv.org/abs/2102.05756"
     year: "2023"
     selected: y
 
@@ -30,7 +31,7 @@ papers:
     authors: "Maurice Jakesch, Mor Naaman, Michael Macy"
     venue: "PsyArXiv Preprint"
     sourceLink: ""
-    paper_pdf: "https://psyarxiv.com/tex3n/download"
+    preprint: "https://psyarxiv.com/tex3n/download"
     year: "2023"
     selected: n
 
@@ -68,7 +69,7 @@ papers:
     authors: "Kristen Engel, Yiqing Hua, Taixiang Zeng, Mor Naaman"
     venue: "CSCW 2022"
     sourceLink: "https://cscw.acm.org/2022/"
-    paper_pdf: ""
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3512900"
     data: "https://github.com/sTechLab/QAnon_users_on_Reddit"
     selected: n  
 
@@ -83,7 +84,7 @@ papers:
     authors: "Anton Abilov, Yiqing Hua, Hana Matatov, Ofra Amir, Mor Naaman"
     data: "https://voterfraud2020.io/"
     venue: "ICWSM 2021"
-    paper_pdf: "https://arxiv.org/abs/2101.08210"
+    paper_pdf: "https://doi.org/10.1609/icwsm.v15i1.18113"
     selected: y
 
   - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
