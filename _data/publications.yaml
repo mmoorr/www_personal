@@ -284,6 +284,7 @@ papers:
     authors: "Xiao Ma, Jeff Hancock, Mor Naaman"
     venue: "CHI 2016"
     sourceLink: "https://chi2016.acm.org/"
+    data: "https://github.com/sTechLab/SelfDisclosureItems"
     paper_pdf: "https://s.tech.cornell.edu/assets/papers/anonymity-intimacy-disclosure.pdf"
 
   - title: "Changes in Engagement Before and After Posting to Facebook"
