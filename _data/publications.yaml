@@ -22,9 +22,10 @@ papers:
 
   - title: "Artificial Intelligence in Communication Impacts Language and Social Relationships"
     authors: "Jess Hohenstein, Dominic DiFranzo, Rene F Kizilcec, Zhila Aghajari, Hannah Mieczkowski, Karen Levy, Mor Naaman, Jeff Hancock, Malte Jung"
-    venue: "In Press"
-    sourceLink: ""
+    venue: "Nature Scientific Reports"
+    sourceLink: "https://www.nature.com/srep/"
     preprint: "https://arxiv.org/abs/2102.05756"
+    paper_pdf: "https://www.nature.com/articles/s41598-023-30938-9"
     year: "2023"
     selected: y
 
