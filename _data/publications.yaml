@@ -17,6 +17,7 @@ papers:
     sourceLink: "https://chi2023.acm.org/"
     preprint: "https://arxiv.org/abs/2302.00560"
     data: "https://osf.io/upgqw/"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3544548.3581196"
     award: "Best Paper Honorable Mention"
     selected: y
 
