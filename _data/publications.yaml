@@ -1,5 +1,15 @@
 papers:
 
+  - title: "Trustworthiness Evaluations of Search Results: The Impact of Rank and Misinformation"
+    authors: "Sterling Williams-Ceci, Michael Macy, Mor Naaman"
+    venue: "arXiv preprint"
+    sourceLink: ""
+    preprint: "https://arxiv.org/abs/2309.11029"
+    data: "https://osf.io/n2b3s/?view_only=0ae0c8d5d110493d933ab76a633fedd6"
+    prereg: "https://osf.io/n2b3s/?view_only=0ae0c8d5d110493d933ab76a633fedd6"
+    year: "2023"
+    selected: y
+
   - title: "Human Heuristics for AI-Generated Language Are Flawed"
     authors: "Maurice Jakesch, Jeffrey Hancock, Mor Naaman"
     venue: "Proceedings of the National Academy of Sciences (PNAS)"
