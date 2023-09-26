@@ -1,5 +1,13 @@
 papers:
 
+  - title: "Insights from a Comparative Study on the Variety, Velocity, Veracity, and Viability of Crowdsourced and Professional Fact-Checking Services"
+    authors: "Andy Zhao, Mor Naaman"
+    venue: "Journal of Online Trust & Safety"
+    sourceLink: "https://tsjournal.org/"
+    paper_pdf: "https://tsjournal.org/index.php/jots/article/view/118"
+    year: "2023"
+    selected: y
+    
   - title: "Trustworthiness Evaluations of Search Results: The Impact of Rank and Misinformation"
     authors: "Sterling Williams-Ceci, Michael Macy, Mor Naaman"
     venue: "arXiv preprint"
