@@ -7,6 +7,16 @@ papers:
     paper_pdf: "https://tsjournal.org/index.php/jots/article/view/118"
     year: "2023"
     selected: y
+
+  - title: "The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication"
+    authors: "Kowe Kadoma, Marianne Aubin Aubin Le Quere, Jenny Fu, and Christin Munsch, Danae Metaxa, Mor Naaman"
+    venue: "arXiv preprint"
+    sourceLink: ""
+    preprint: "http://arxiv.org/abs/2309.11599"
+    prereg: "https://osf.io/kwbev?view_only=c5639dcc6292482b8bd79f2086b38d24"
+    year: "2023"
+    selected: y
+
     
   - title: "Trustworthiness Evaluations of Search Results: The Impact of Rank and Misinformation"
     authors: "Sterling Williams-Ceci, Michael Macy, Mor Naaman"
