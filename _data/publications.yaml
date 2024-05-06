@@ -1,19 +1,43 @@
 papers:
 
+  - title: "Not Quite Filling the Void: Comparing the Perceptions of Local Online Groups and Local Media Pages on Facebook"
+    authors: "Marianne Aubin Le Quéré, Mor Naaman, Jenna Fields"
+    venue: "CSCW 2024"
+    sourceLink: "https://cscw.acm.org/2022/"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3637377"
+    year: "2024"
+    selected: y
+
+  - title: "Bias in AI Autocomplete Suggestions Leads to Attitude Shift on Societal Issues"
+    authors: "Williams-Ceci, Sterling, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://osf.io/preprints/psyarxiv/mhjn6"
+    year: "2024"
+    selected: y
+    
+  - title: "The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication"
+    authors: "Kowe Kadoma, Marianne Aubin Le Quéré, Jenny Fu, and Christin Munsch, Danae Metaxa, Mor Naaman"
+    venue: "CHI 2024"
+    sourceLink: "https://chi2024.acm.org/"
+    preprint: "http://arxiv.org/abs/2309.11599"
+    prereg: "https://osf.io/kwbev?view_only=c5639dcc6292482b8bd79f2086b38d24"
+    year: "2024"
+    selected: y
+
+  - title: "'There Has To Be a Lot That We're Missing': Moderating AI-Generated Content on Reddit"
+    authors: "Travis Lloyd, Joseph Reagle, Mor Naaman"
+    venue: "arXiv Preprint"
+    sourceLink: ""
+    preprint: "https://arxiv.org/abs/2311.12702"
+    year: "2023"
+    selected: y
+
   - title: "Insights from a Comparative Study on the Variety, Velocity, Veracity, and Viability of Crowdsourced and Professional Fact-Checking Services"
     authors: "Andy Zhao, Mor Naaman"
     venue: "Journal of Online Trust & Safety"
     sourceLink: "https://tsjournal.org/"
     paper_pdf: "https://tsjournal.org/index.php/jots/article/view/118"
-    year: "2023"
-    selected: y
-
-  - title: "The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication"
-    authors: "Kowe Kadoma, Marianne Aubin Aubin Le Quere, Jenny Fu, and Christin Munsch, Danae Metaxa, Mor Naaman"
-    venue: "arXiv preprint"
-    sourceLink: ""
-    preprint: "http://arxiv.org/abs/2309.11599"
-    prereg: "https://osf.io/kwbev?view_only=c5639dcc6292482b8bd79f2086b38d24"
     year: "2023"
     selected: y
 
