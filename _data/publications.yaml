@@ -5,7 +5,6 @@ papers:
     venue: "CSCW 2024"
     sourceLink: "https://cscw.acm.org/2022/"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3637377"
-    year: "2024"
     selected: y
 
   - title: "Bias in AI Autocomplete Suggestions Leads to Attitude Shift on Societal Issues"
@@ -22,7 +21,6 @@ papers:
     sourceLink: "https://chi2024.acm.org/"
     preprint: "http://arxiv.org/abs/2309.11599"
     prereg: "https://osf.io/kwbev?view_only=c5639dcc6292482b8bd79f2086b38d24"
-    year: "2024"
     selected: y
 
   - title: "'There Has To Be a Lot That We're Missing': Moderating AI-Generated Content on Reddit"
