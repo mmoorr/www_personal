@@ -1,5 +1,13 @@
 papers:
 
+  - title: "AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances"
+    authors: "Dhruv Agarwal, Mor Naaman, Aditya Vashistha"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://arxiv.org/abs/2409.11360"
+    year: "2024"
+    selected: y
+
   - title: "Stereo-Typing: LLM Chatbots' Appearance of Typing can Increase Belief in a False Stereotype"
     authors: "Sterling Williams-Ceci, Lior Zalmanson, Michael Macy, Mor Naaman"
     venue: "Preprint"
