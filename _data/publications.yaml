@@ -16,6 +16,15 @@ papers:
     year: "2024"
     selected: y
 
+  - title: "Estimating Exposure to Information on Social Networks"
+    authors: "Buddhika Nettasinghe, Kowe Kadoma, Mor Naaman, Vikram Krishnamurthy"
+    venue: "ACM Transactions on Social Computing"
+    sourceLink: ""
+    paper_pdf: "https://doi.acm.org?doi=3688599"
+    preprint: "https://arxiv.org/abs/2409.11360"
+    year: "2024"
+    selected: y
+
   - title: "Trustworthiness Evaluations of Search Results: The Impact of Rank and Misinformation"
     authors: "Sterling Williams-Ceci, Michael Macy, Mor Naaman"
     venue: "Nature Scientific Reports"
