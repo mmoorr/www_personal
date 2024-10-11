@@ -140,7 +140,8 @@ papers:
     authors: "Marianne Aubin Le Quéré, Ting-Wei Chiang, Mor Naaman"
     sourceLink: "https://www.icwsm.org/2022/index.html/"
     venue: "ICWSM 2022"
-    paper_pdf: "https://mariannealq.com/wp-content/uploads/2022/05/Local_News_ICWSM_Camera_Ready.pdf"
+    paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/19315"
+    preprint: "https://mariannealq.com/wp-content/uploads/2022/05/Local_News_ICWSM_Camera_Ready.pdf"
     data: "https://github.com/sTechLab/local-news-dataset"
     selected: y
 
@@ -148,14 +149,16 @@ papers:
     authors: "Marianne Aubin Le Quéré, Ting-Wei Chiang, Karen Levy, Mor Naaman"
     venue: "CSCW 2022"
     sourceLink: "https://cscw.acm.org/2022/"
-    paper_pdf: "https://mariannealq.com/wp-content/uploads/2022/10/essential_worker_info_needs_camera_ready-2.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3555197"
+    preprint: "https://mariannealq.com/wp-content/uploads/2022/10/essential_worker_info_needs_camera_ready-2.pdf"
     selected: n
 
   - title: "Characterizing Alternative Monetization Strategies on YouTube"
     authors: "Yiqing Hua, Manoel Horta Ribeiro, Robert West, Thomas Ristenpart, Mor Naaman"
     venue: "CSCW 2022"
     sourceLink: "https://cscw.acm.org/2022/"
-    paper_pdf: "https://arxiv.org/abs/2203.10143"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3555174"
+    preprint: "https://arxiv.org/abs/2203.10143"
     selected: y
 
   - title: "Stop the [Image] Steal: The Role and Dynamics of Visual Content in the 2020 US Election Misinformation Campaign"
@@ -192,21 +195,24 @@ papers:
     authors: "Zhicong Lu, Yue Jiang, Chenxinran Shen, Margaret Jack, Daniel Wigdor, Mor Naaman"
     venue: "CSCW 2021"
     sourceLink: "https://cscw.acm.org/2021/"
-    paper_pdf: "https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3449251"
+    preprint: "https://www.cs.cityu.edu.hk/~zhiconlu/assets/pdf/positive-energy-cscw21.pdf"
     selected: n
 
   - title: "# Trend Alert: How a Cross-Platform Organization Manipulated Twitter Trends in the Indian General Election"
     authors: "Maurice Jakesch, Kiran Garimella, Dean Eckles, Mor Naaman"
     venue: "CSCW 2021"
     sourceLink: "https://cscw.acm.org/2021/"
-    paper_pdf: "https://arxiv.org/abs/2104.13259"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3479523?cid=99659366351"
+    preprint: "https://arxiv.org/abs/2104.13259"
     selected: n  
 
   - title: "AI-Mediated Communication: Language Use and Interpersonal Effects in a Referential Communication Task"
     authors: "Hannah Mieczkowski, Jeffrey T. Hancock, Mor Naaman, Malte Jung, Jess Hohenstein"
     venue: "CSCW 2021"
     sourceLink: "https://cscw.acm.org/2021/"
-    paper_pdf: "https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3449091"
+    preprint: "https://www.hnmiecz.com/media/AI_MC_CSCW_website.pdf"
     selected: n
 
   - title: "How Partisan Crowds Affect News Evaluation"
@@ -236,7 +242,8 @@ papers:
     authors: "Yiqing Hua, Mor Naaman, Thomas Ristenpart"
     venue: "CHI 2020"
     sourceLink: "https://chi2020.acm.org/"
-    paper_pdf: "https://arxiv.org/abs/2005.04412"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3313831.3376548"
+    preprint: "https://arxiv.org/abs/2005.04412"
     data: "https://figshare.com/articles/U_S_Midterm_ Election_Twitter_Dataset_2018/11374062"
     award: "Best Paper Honorable Mention"
     selected: n
@@ -245,33 +252,38 @@ papers:
     authors: "Zhicong Lu, Yue Jiang, Cheng Lu, Mor Naaman, Daniel Wigdor"
     venue: "CHI 2020"
     sourceLink: "https://chi2020.acm.org/"
-    paper_pdf: "http://www.cs.umd.edu/~yuejiang/papers/Dividend.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3313831.3376612"
+    preprint: "http://www.cs.umd.edu/~yuejiang/papers/Dividend.pdf"
     selected: n
 
   - title: "Understanding Reader Backtracking Behavior in Online News Articles"
     authors: "Uzi Smadja, Max Grusky, Yoav Artzi, Mor Naaman"
     venue: "WWW 2019"
     sourceLink: "https://www2019.thewebconf.org/"
-    paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/smadja_webconf_backtracking.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3308558.3313571"
+    preprint: "https://people.jacobs.cornell.edu/mor/publications/thegoods/smadja_webconf_backtracking.pdf"
 
   - title: "How Intention Informed Recommendations Modulate Choices: A Field Study of Spoken Word Content"
     authors: "Longqi Yang, Michael Sobolev, Yu Wang, Jenny Chen, Drew Dunne, Christina Tsangouri, Nicola Dell, Mor Naaman, Deborah Estrin"
     venue: "WWW 2019"
     sourceLink: "https://www2019.thewebconf.org/"
-    paper_pdf: "http://www.cs.cornell.edu/~ylongqi/paper/YangSWCDTDNE19.pdf"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3308558.3313540"
+    preprint: "http://www.cs.cornell.edu/~ylongqi/paper/YangSWCDTDNE19.pdf"
 
   - title: "When Do People Trust Their Social Groups?"
     authors: "Xiao Ma, Justin Cheng, Shankar Iyer, Mor Naaman"
     venue: "CHI 2019"
     sourceLink: "https://chi2019.acm.org/"
-    paper_pdf: "https://arxiv.org/pdf/1905.05270.pdf"
+    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3290605.3300297"
+    preprint: "https://arxiv.org/pdf/1905.05270.pdf"
     selected: y
 
   - title: "AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects Trustworthiness"
     authors: "Maurice Jakesch, Megan French, Xiao Ma, Jeff Hancock, Mor Naaman"
     venue: "CHI 2019"
     sourceLink: "https://chi2019.acm.org/"
-    paper_pdf: "https://www.mauricejakesch.com/assets/pdf/chi2019__ai_mc_camera_ready.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3290605.3300469"
+    preprint: "https://www.mauricejakesch.com/assets/pdf/chi2019__ai_mc_camera_ready.pdf"
     prereg: "https://osf.io/qg3m2/registrations"
     data: "https://osf.io/qg3m2/"
     selected: y
@@ -292,25 +304,29 @@ papers:
     authors: "Longqi Yang, Yu Wang, Drew Dunne, Michael Sobolev, Mor Naaman, Deborah Estrin"
     venue: "WSDM 2019"
     sourceLink: "http://www.wsdm-conference.org/2019/"
-    paper_pdf: "http://www.cs.cornell.edu/~ylongqi/paper/YangWDSNE19.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3289600.3290993"
+    preprint: "http://www.cs.cornell.edu/~ylongqi/paper/YangWDSNE19.pdf"
 
   - title: "Understanding Image Quality and Trust in Peer-to-Peer Marketplaces"
     authors: "Xiao Ma, Lina Mezghani, Kimberly Wilber, Hui Hong, Robinson Piramuthu, Mor Naaman, Serge Belongie. "
     venue: "WACV 2019"
     sourceLink: "http://wacv19.wacv.net/"
-    paper_pdf: "https://arxiv.org/pdf/1811.10648.pdf"
+    paper_pdf: "https://www.computer.org/csdl/proceedings-article/wacv/2019/197500a511/18j8LbuM1tS"
+    preprint: "https://arxiv.org/pdf/1811.10648.pdf"
 
   - title: "ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities"
     authors: "Matthew Law, Mor Naaman, Nicola Dell"
     venue: "DIS 2018"
     sourceLink: "http://dis2018.org/"
-    paper_pdf: "https://s.tech.cornell.edu/assets/papers/sharebox-local-communities.pdf"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3196709.3196763"
+    preprint: "https://s.tech.cornell.edu/assets/papers/sharebox-local-communities.pdf"
 
   - title: "A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies"
     authors: "Max Grusky, Mor Naaman, Yoav Artzi"
     venue: "NAACL 2018"
     sourceLink: "http://naacl2018.org/"
-    paper_pdf: "https://s.tech.cornell.edu/assets/papers/newsroom.pdf"
+    paper_pdf: "https://aclanthology.org/N18-1065/" 
+    preprint: "https://s.tech.cornell.edu/assets/papers/newsroom.pdf"
     data: "https://lil.nlp.cornell.edu/newsroom/index.html"
 
   - title: "Web-based VR Experiments Powered by the Crowd"
