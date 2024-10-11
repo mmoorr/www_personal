@@ -1,5 +1,13 @@
 papers:
 
+  - title: "Examining the Prevalence and Dynamics of AI-Generated Media in Art Subreddits"
+    authors: "Hana Matatov, Marianne Aubin Le Quéré, Ofra Amir, Mor Naaman"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://arxiv.org/abs/2410.07302"
+    year: "2024"
+    selected: y
+
   - title: "Generative AI and Perceptual Harms: Who's Suspected of using LLMs?"
     authors: "Kowe Kadoma, Danaë Metaxa, Mor Naaman"
     venue: "Preprint"
@@ -16,7 +24,7 @@ papers:
     year: "2024"
     selected: y
 
-  - title: "Stereo-Typing: LLM Chatbots' Appearance of Typing can Increase Belief in a False Stereotype"
+  - title: "Stereo-Typing: LLM Chatbots' Appearance of Typing Can Increase Belief in a False Stereotype"
     authors: "Sterling Williams-Ceci, Lior Zalmanson, Michael Macy, Mor Naaman"
     venue: "Preprint"
     sourceLink: ""
