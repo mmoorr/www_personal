@@ -1,5 +1,14 @@
 papers:
 
+  - title: "AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"
+    authors: "Travis Lloyd, Jennah Gosciak, Tung Nguyen, Mor Naaman"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://arxiv.org/abs/2410.11698"
+    year: "2024"
+    selected: y
+
+
   - title: "Examining the Prevalence and Dynamics of AI-Generated Media in Art Subreddits"
     authors: "Hana Matatov, Marianne Aubin Le Quéré, Ofra Amir, Mor Naaman"
     venue: "Preprint"
