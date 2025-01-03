@@ -48,7 +48,7 @@ papers:
     paper_pdf: "https://doi.acm.org?doi=3688599"
     preprint: "https://arxiv.org/abs/2207.05980"
     year: "2024"
-    selected: y
+    selected: n
 
   - title: "Trustworthiness Evaluations of Search Results: The Impact of Rank and Misinformation"
     authors: "Sterling Williams-Ceci, Michael Macy, Mor Naaman"
@@ -152,7 +152,7 @@ papers:
     paper_pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/19315"
     preprint: "https://mariannealq.com/wp-content/uploads/2022/05/Local_News_ICWSM_Camera_Ready.pdf"
     data: "https://github.com/sTechLab/local-news-dataset"
-    selected: y
+    selected: n
 
   - title: "Information Needs of Essential Workers During the COVID-19 Pandemic"
     authors: "Marianne Aubin Le Quéré, Ting-Wei Chiang, Karen Levy, Mor Naaman"
