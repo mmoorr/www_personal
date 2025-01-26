@@ -2,34 +2,33 @@ papers:
 
   - title: "AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"
     authors: "Travis Lloyd, Jennah Gosciak, Tung Nguyen, Mor Naaman"
-    venue: "Preprint"
-    sourceLink: ""
+    venue: "CHI 2025"
+    sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2410.11698"
-    year: "2024"
+    year: "2025"
     selected: y
 
+  - title: "Generative AI and Perceptual Harms: Who's Suspected of using LLMs?"
+    authors: "Kowe Kadoma, Danaé Metaxa, Mor Naaman"
+    venue: "CHI 2025"
+    sourceLink: "https://chi2025.acm.org/"
+    preprint: "https://arxiv.org/abs/2410.00906"
+    year: "2025"
+    selected: y
+
+  - title: "AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances"
+    authors: "Dhruv Agarwal, Mor Naaman, Aditya Vashistha"
+    venue: "CHI 2025"
+    sourceLink: "https://chi2025.acm.org/"
+    preprint: "https://arxiv.org/abs/2409.11360"
+    year: "2024"
+    selected: y
 
   - title: "Examining the Prevalence and Dynamics of AI-Generated Media in Art Subreddits"
     authors: "Hana Matatov, Marianne Aubin Le Quéré, Ofra Amir, Mor Naaman"
     venue: "Preprint"
     sourceLink: ""
     preprint: "https://arxiv.org/abs/2410.07302"
-    year: "2024"
-    selected: y
-
-  - title: "Generative AI and Perceptual Harms: Who's Suspected of using LLMs?"
-    authors: "Kowe Kadoma, Danaë Metaxa, Mor Naaman"
-    venue: "Preprint"
-    sourceLink: ""
-    preprint: "https://arxiv.org/abs/2410.00906"
-    year: "2024"
-    selected: y
-
-  - title: "AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances"
-    authors: "Dhruv Agarwal, Mor Naaman, Aditya Vashistha"
-    venue: "Preprint"
-    sourceLink: ""
-    preprint: "https://arxiv.org/abs/2409.11360"
     year: "2024"
     selected: y
 
@@ -76,7 +75,7 @@ papers:
     selected: y
 
   - title: "The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication"
-    authors: "Kowe Kadoma, Marianne Aubin Le Quéré, Jenny Fu, Christin Munsch, Danaë Metaxa, Mor Naaman"
+    authors: "Kowe Kadoma, Marianne Aubin Le Quéré, Jenny Fu, Christin Munsch, Danaé Metaxa, Mor Naaman"
     venue: "CHI 2024"
     sourceLink: "https://chi2024.acm.org/"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3613904.3642650"
