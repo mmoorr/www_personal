@@ -5,7 +5,6 @@ papers:
     venue: "CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2410.11698"
-    year: "2025"
     selected: y
 
   - title: "Generative AI and Perceptual Harms: Who's Suspected of using LLMs?"
@@ -13,7 +12,6 @@ papers:
     venue: "CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2410.00906"
-    year: "2025"
     selected: y
 
   - title: "AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances"
@@ -21,7 +19,6 @@ papers:
     venue: "CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2409.11360"
-    year: "2024"
     selected: y
 
   - title: "Examining the Prevalence and Dynamics of AI-Generated Media in Art Subreddits"
