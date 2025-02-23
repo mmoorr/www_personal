@@ -21,6 +21,14 @@ papers:
     preprint: "https://arxiv.org/abs/2409.11360"
     selected: y
 
+  - title: "Biased AI Writing Assistants Shift Users’ Attitudes on Societal Issues"
+    authors: "Sterling Williams-Ceci, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://osf.io/preprints/psyarxiv/mhjn6"
+    year: "2024"
+    selected: y
+
   - title: "Examining the Prevalence and Dynamics of AI-Generated Media in Art Subreddits"
     authors: "Hana Matatov, Marianne Aubin Le Quéré, Ofra Amir, Mor Naaman"
     venue: "Preprint"
@@ -62,14 +70,6 @@ papers:
     sourceLink: "https://cscw.acm.org/2022/"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3637377"
     selected: n
-
-  - title: "Bias in AI Autocomplete Suggestions Leads to Attitude Shift on Societal Issues"
-    authors: "Sterling Williams-Ceci, Maurice Jakesch, Advait Bhat, Kowe Kadoma, Lior Zalmanson, Mor Naaman"
-    venue: "Preprint"
-    sourceLink: ""
-    preprint: "https://osf.io/preprints/psyarxiv/mhjn6"
-    year: "2024"
-    selected: y
 
   - title: "The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication"
     authors: "Kowe Kadoma, Marianne Aubin Le Quéré, Jenny Fu, Christin Munsch, Danaé Metaxa, Mor Naaman"
