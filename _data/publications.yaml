@@ -1,5 +1,13 @@
 papers:
 
+  - title: "'There Has To Be a Lot That We're Missing': Moderating AI-Generated Content on Reddit"
+    authors: "Travis Lloyd, Joseph Reagle, Mor Naaman"
+    venue: "CSCW 2025"
+    sourceLink: "https://cscw.acm.org/2025/"
+    preprint: "https://arxiv.org/abs/2311.12702"
+    year: "2025"
+    selected: y
+
   - title: "AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"
     authors: "Travis Lloyd, Jennah Gosciak, Tung Nguyen, Mor Naaman"
     venue: "CHI 2025"
@@ -85,14 +93,6 @@ papers:
     venue: "CHI 2024"
     sourceLink: "https://chi2024.acm.org/"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3613904.3641967"
-    selected: y
-
-  - title: "'There Has To Be a Lot That We're Missing': Moderating AI-Generated Content on Reddit"
-    authors: "Travis Lloyd, Joseph Reagle, Mor Naaman"
-    venue: "arXiv Preprint"
-    sourceLink: ""
-    preprint: "https://arxiv.org/abs/2311.12702"
-    year: "2023"
     selected: y
 
   - title: "Insights from a Comparative Study on the Variety, Velocity, Veracity, and Viability of Crowdsourced and Professional Fact-Checking Services"
