@@ -5,7 +5,6 @@ papers:
     venue: "CSCW 2025"
     sourceLink: "https://cscw.acm.org/2025/"
     preprint: "https://arxiv.org/abs/2311.12702"
-    year: "2025"
     selected: y
 
   - title: "AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"
