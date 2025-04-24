@@ -12,6 +12,7 @@ papers:
     venue: "CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2410.11698"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3706598.3713292"
     selected: y
 
   - title: "Generative AI and Perceptual Harms: Who's Suspected of using LLMs?"
@@ -19,6 +20,7 @@ papers:
     venue: "CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2410.00906"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3706598.3713897"
     selected: y
 
   - title: "AI Suggestions Homogenize Writing Toward Western Styles and Diminish Cultural Nuances"
@@ -26,13 +28,14 @@ papers:
     venue: "CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2409.11360"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3706598.3713564'
     selected: y
 
   - title: "AI is Perceived as Less Trustworthy and Less Effective when Using Emotional Arguments to Moderate Misinformation"
     authors: "Benjamin Silver, Sterling Williams-Ceci, Mor Naaman"
     venue: "Extended Abstracts CHI 2025"
     sourceLink: "https://chi2025.acm.org/"
-    paper: "https://dl.acm.org/doi/10.1145/3706599.3720008"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3706599.3720008"
     selected: n
 
   - title: "Biased AI Writing Assistants Shift Users’ Attitudes on Societal Issues"
