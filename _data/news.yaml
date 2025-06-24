@@ -1,5 +1,25 @@
 news_items:
 
+  - item: "Gave keynote talk at ACM Web Science 2025: Revisiting AI-Mediated Communication"
+    date: "May 2025"
+    link: "https://www.websci25.org/keynotes/"
+
+  - item: "Our paper (led by Marianne Aubin Le Quéré) received a Top Paper award in the 2024 International Communication Association (ICA) Communication and Technology Division"
+    date: "May 2024"
+    link: "https://www.websci25.org/keynotes/"
+
+  - item: "Received a LinkedIn-Bowers CIS Strategic Partnership Program award"
+    date: "June 2023"
+    link: ""
+
+  - item: "Honorable mention for best paper at CHI 2023 for paper led by Maurice Jakesch"
+    date: "April 2023"
+    link: "https://dl.acm.org/doi/full/10.1145/3544548.3581196"
+
+  - item: "Received a Microsoft Research Award"
+    date: "April 2023"
+    link: ""
+
   - item: "Our paper is out in the Proceedings of the National Academy of Sciences (PNAS)"
     date: "March 2023"
     link: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
@@ -8,10 +28,4 @@ news_items:
     date: "Sep 2022"
     link: "https://recsys.acm.org/recsys22/keynotes/#content-tab-1-1-tab"
 
-  - item: "Thanks to the NSF for a new award to study abuse prevention in E2EE platforms (with Tom Ristenpart, Amy Zhang, Nate Matias, James Grimmelmann)"
-    link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2120651&HistoricalAwards=false"
-    date: "Jul 2021"
 
-  - item: "Invited speaker for the Future of the Web track in The Web Conference 2021"
-    link: "https://www2021.thewebconf.org/program/future-of-the-web/index.html"
-    date: "Apr 2021"
