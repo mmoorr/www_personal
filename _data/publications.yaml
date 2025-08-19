@@ -7,6 +7,13 @@ papers:
     preprint: "https://arxiv.org/abs/2311.12702"
     selected: y
 
+  - title: "Examining Human-AI Collaboration for Co-Writing Constructive Comments Online"
+    authors: "Farhana Shahid, Maximilian Dittgen, Mor Naaman, Aditya Vashistha"
+    venue: "CSCW 2025"
+    sourceLink: "https://cscw.acm.org/2025/"
+    preprint: "https://arxiv.org/abs/2411.03295"
+    selected: y
+
   - title: "AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content"
     authors: "Travis Lloyd, Jennah Gosciak, Tung Nguyen, Mor Naaman"
     venue: "CHI 2025"
