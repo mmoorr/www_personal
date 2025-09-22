@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Beyond Community Notes: A Framework for Understanding and Building Crowdsourced Context Systems"
+    authors: "Travis Lloyd, Tung Nguyen, Karen Levy, Mor Naaman"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://www.arxiv.org/abs/2509.15434"
+    selected: y
+
   - title: "'There Has To Be a Lot That We're Missing': Moderating AI-Generated Content on Reddit"
     authors: "Travis Lloyd, Joseph Reagle, Mor Naaman"
     venue: "CSCW 2025"
