@@ -12,6 +12,7 @@ papers:
     venue: "CSCW 2025"
     sourceLink: "https://cscw.acm.org/2025/"
     preprint: "https://arxiv.org/abs/2311.12702"
+    award: "Best Paper Honorable Mention"
     selected: y
 
   - title: "Examining Human-AI Collaboration for Co-Writing Constructive Comments Online"
