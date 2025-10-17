@@ -11,6 +11,7 @@ papers:
     authors: "Travis Lloyd, Joseph Reagle, Mor Naaman"
     venue: "CSCW 2025"
     sourceLink: "https://cscw.acm.org/2025/"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3757445"
     preprint: "https://arxiv.org/abs/2311.12702"
     award: "Best Paper Honorable Mention"
     selected: y
@@ -18,6 +19,7 @@ papers:
   - title: "Examining Human-AI Collaboration for Co-Writing Constructive Comments Online"
     authors: "Farhana Shahid, Maximilian Dittgen, Mor Naaman, Aditya Vashistha"
     venue: "CSCW 2025"
+    paper_pdf: "https://dl.acm.org/doi/10.1145/3757591"
     sourceLink: "https://cscw.acm.org/2025/"
     preprint: "https://arxiv.org/abs/2411.03295"
     selected: y
