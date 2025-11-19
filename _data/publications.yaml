@@ -1,5 +1,13 @@
 papers:
 
+  - title: "Introducing AI to an Online Petition Platform Changed Outputs but not Outcomes"
+    authors: "Isabel Corpus, Eric Gilbert, Allison Koenecke, Mor Naaman"
+    venue: "Preprint"
+    sourceLink: ""
+    preprint: "https://arxiv.org/abs/2511.13949"
+    year: "2025"
+    selected: y
+
   - title: "Beyond Community Notes: A Framework for Understanding and Building Crowdsourced Context Systems"
     authors: "Travis Lloyd, Tung Nguyen, Karen Levy, Mor Naaman"
     venue: "Preprint"
