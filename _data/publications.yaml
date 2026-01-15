@@ -10,8 +10,8 @@ papers:
 
   - title: "Beyond Community Notes: A Framework for Understanding and Building Crowdsourced Context Systems"
     authors: "Travis Lloyd, Tung Nguyen, Karen Levy, Mor Naaman"
-    venue: "Preprint"
-    sourceLink: ""
+    venue: "CHI 2026"
+    sourceLink: "https://chi2026.acm.org/"
     preprint: "https://www.arxiv.org/abs/2509.15434"
     selected: y
 
