@@ -6,13 +6,17 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
   <title>{{ site.data.main_info.name }} | {{ page.title }}</title>
-  <meta name="description" content="Homepage for Mor Naaman, Information Science Professor at Cornell Tech.">
-  <meta name="author" content="Mor">
-  <meta property="og:title" content="Mor Naaman | Home" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://www.mornaaman.com" />
-  <meta property="og:site_name" content="Mor Naaman" />
-  <link rel="canonical" href="http://www.mornaaman.com" />
+  <meta name="description" content="{{ page.description | default: 'Homepage for Mor Naaman, Information Science Professor at Cornell Tech.' }}">
+  <meta name="author" content="{{ site.data.main_info.name }}">
+  <meta property="og:title" content="{{ page.og_title | default: page.title }}" />
+  <meta property="og:type" content="{{ page.og_type | default: 'website' }}" />
+  <meta property="og:url" content="{{ page.canonical_url | default: page.url | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:site_name" content="{{ site.data.main_info.name }}" />
+  <meta property="og:description" content="{{ page.og_description | default: page.description | default: 'Homepage for Mor Naaman, Information Science Professor at Cornell Tech.' }}" />
+  {% if page.og_image %}
+  <meta property="og:image" content="{{ page.og_image }}" />
+  {% endif %}
+  <link rel="canonical" href="{{ page.canonical_url | default: page.url | prepend: site.baseurl | prepend: site.url }}" />
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
