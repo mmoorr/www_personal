@@ -10,13 +10,21 @@
   <meta name="author" content="{{ site.data.main_info.name }}">
   <meta property="og:title" content="{{ page.og_title | default: page.title }}" />
   <meta property="og:type" content="{{ page.og_type | default: 'website' }}" />
-  <meta property="og:url" content="{{ page.canonical_url | default: page.url | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.canonical_url %}
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  {% else %}
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  {% endif %}
   <meta property="og:site_name" content="{{ site.data.main_info.name }}" />
   <meta property="og:description" content="{{ page.og_description | default: page.description | default: 'Homepage for Mor Naaman, Information Science Professor at Cornell Tech.' }}" />
   {% if page.og_image %}
   <meta property="og:image" content="{{ page.og_image }}" />
   {% endif %}
-  <link rel="canonical" href="{{ page.canonical_url | default: page.url | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  {% else %}
+  <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  {% endif %}
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
