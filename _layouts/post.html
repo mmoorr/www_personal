@@ -65,9 +65,23 @@
   <div class="container">
 
     <section class="header" style="margin-top: 5rem;">
+      {% if page.header_image %}
+      <div class="row">
+        <div class="nine columns">
+          <h2>{{ page.title }}</h2>
+          {% if page.subtitle %}
+          <h5 style="color: #999;">{{ page.subtitle }}</h5>
+          {% endif %}
+        </div>
+        <div class="three columns" style="text-align: right;">
+          <img src="{{ page.header_image | prepend: site.baseurl }}" alt="" style="max-height: 120px; width: auto;">
+        </div>
+      </div>
+      {% else %}
       <h2>{{ page.title }}</h2>
       {% if page.subtitle %}
       <h5 style="color: #999;">{{ page.subtitle }}</h5>
+      {% endif %}
       {% endif %}
     </section>
 
