@@ -74,7 +74,7 @@
           {% endif %}
         </div>
         <div class="three columns" style="text-align: right;">
-          <img src="{{ page.header_image | prepend: site.baseurl }}" alt="" style="max-height: 120px; width: auto;">
+          <img src="{{ page.header_image | prepend: site.baseurl }}" alt="{{ page.header_image_alt }}" style="max-height: 250px; width: auto;">
         </div>
       </div>
       {% else %}
