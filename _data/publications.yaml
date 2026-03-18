@@ -16,6 +16,13 @@ papers:
     preprint: "https://arxiv.org/abs/2603.10374"
     selected: y
 
+  - title: "Lost in Transcription: Subtitle Errors in Automatic Speech Recognition Reduce Speaker and Content Evaluations"
+    authors: "Kowe Kadoma, Priyal Shrivastava, Mor Naaman"
+    venue: "CHI 2026"
+    sourceLink: "https://chi2026.acm.org/"
+    preprint: "https://arxiv.org/abs/2603.15807"
+    selected: y
+
   - title: "Introducing AI to an Online Petition Platform Changed Outputs but not Outcomes"
     authors: "Isabel Corpus, Eric Gilbert, Allison Koenecke, Mor Naaman"
     venue: "Preprint"
