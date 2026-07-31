@@ -32,6 +32,26 @@ I am the Don and Mibs Follett professor of Information Science at <a href="https
   <p>
 	 I am offering this course because access to high‑quality education on AI and its societal impact is unevenly distributed around the world. During my sabbatical, I want to share what I know directly with students who may not otherwise have this opportunity. I also hope to learn from local perspectives and experiences with AI.
   </p>
+
+<h4>Confirmed Course Offerings</h4>
+  <p>Here is a timeline of confirmed course offerings to date. 
+  </p>
+  <!-- The Timeline -->
+  <ul class="timeline">
+    {% for offer in site.data.course.offerings %}
+    <li>
+      {% capture direction %}{% cycle 'direction-l', 'direction-r' %}{% endcapture %}
+      <div class="{{ direction }}">
+        <div class="flag-wrapper">
+          <span class="flag">{{ offer.country }}</span>
+          <span class="time-wrapper"><span class="time">{{ offer.date }}</span></span>
+        </div>
+        <div class="desc"><b>{{ offer.host }}</b></div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  
 <h4>Interested in Hosting?</h4>
 
   <p>

@@ -1,0 +1,21 @@
+offerings:
+
+  - date: "September 18-20, 2026"
+    country: "Bhutan"
+    host: "College of Science and Technology (Royal University of Bhutan), Phuentsholing"
+
+  - date: "September 29-October 2, 2026"
+    country: "Bangladesh"
+    host: "North South University, Dhaka"
+
+  - date: "November 11-14, 2026"
+    country: "Ecuador"
+    host: "Universidad San Francisco, Quito"
+
+  - date: "January 25-27, 2027"
+    country: "Philippines"
+    host: "De La Salle University (DLSU), Manila"
+
+  - date: "February 13-15, 2027"
+    country: "Vietnam"
+    host: "VinUniversity, Hanoi"
