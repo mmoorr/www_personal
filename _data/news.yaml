@@ -1,5 +1,17 @@
 news_items:
 
+  - item: "New NSF Award with Eric Gilbert (Michigan) on Understanding the Wide-scale Impact of Generative AI on Online Communities"
+    date: "Aug 2026"
+    link: "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2615552"
+
+  - item: "Offering free in-person multi-day courses on AI & Society, worldwide (academic year 2026-27)"
+    date: "May 2026"
+    link: "https://mmoorr.github.io/www_personal/ai_course.html"
+
+  - item: "Best Paper Honorable Mention for the paper led by Travis Lloyd at CSCW 2025 on Moderating AI-Generated Content on Reddit"
+    date: "Oct 2026"
+    link: "https://dl.acm.org/doi/10.1145/3757445"
+  
   - item: "Gave keynote talk at ACM Web Science 2025: Revisiting AI-Mediated Communication"
     date: "May 2025"
     link: "https://www.websci25.org/keynotes/"
@@ -8,24 +20,5 @@ news_items:
     date: "May 2024"
     link: "https://www.websci25.org/keynotes/"
 
-  - item: "Received a LinkedIn-Bowers CIS Strategic Partnership Program award"
-    date: "June 2023"
-    link: ""
-
-  - item: "Honorable mention for best paper at CHI 2023 for paper led by Maurice Jakesch"
-    date: "April 2023"
-    link: "https://dl.acm.org/doi/full/10.1145/3544548.3581196"
-
-  - item: "Received a Microsoft Research Award"
-    date: "April 2023"
-    link: ""
-
-  - item: "Our paper is out in the Proceedings of the National Academy of Sciences (PNAS)"
-    date: "March 2023"
-    link: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
-
-  - item: "Gave keynote talk at ACM RecSys 2022 on AI-mediated Communication"
-    date: "Sep 2022"
-    link: "https://recsys.acm.org/recsys22/keynotes/#content-tab-1-1-tab"
 
 
