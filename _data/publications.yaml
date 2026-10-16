@@ -8,6 +8,9 @@ papers:
     prereg: "https://aspredicted.org/xtcd-tvqk.pdf"
     preprint: "https://arxiv.org/abs/2511.13949"
     year: "2026"
+    press:
+      - ["https://news.cornell.edu/stories/2026/09/ai-enhanced-petitions-changeorg-more-text-less-success", "Cornell Chronicle"]
+      - ["https://cacm.acm.org/news/is-ai-creating-a-culture-of-avoidance/", "CACM"]
     selected: y
 
   - title: "Biased AI Writing Assistants Shift Users’ Attitudes on Societal Issues"
@@ -18,8 +21,12 @@ papers:
     preprint: "https://osf.io/preprints/psyarxiv/mhjn6"
     year: "2026"
     press:
+      - ["https://www.scientificamerican.com/article/ai-autocomplete-doesnt-just-change-how-you-write-it-changes-how-you-think/", "Scientific American"]
       - ["https://www.sciencenews.org/article/ai-autocomplete-social-issues-views", "Science News"]
       - ["https://news.cornell.edu/stories/2026/03/ai-assistants-can-sway-writers-attitudes-even-when-theyre-watching-bias", "Cornell Chronicle"]
+      - ["https://www.nature.com/articles/d41586-026-00781-9", "Nature"]
+      - ["https://www.digitaltrends.com/computing/love-autocomplete-in-your-texts-research-says-its-quietly-changing-your-thoughts/", "Digital Trends"]
+      - ["https://www.latimes.com/california/story/2026-03-14/lopez-column-artificial-intelligence", "LA Times"]
     selected: y
 
   - title: "Reactive Writers: How Co-Writing with AI Changes How We Engage with Ideas"
@@ -53,6 +60,9 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/10.1145/3757445"
     preprint: "https://arxiv.org/abs/2311.12702"
     award: "Best Paper Honorable Mention"
+    press:
+      - ["https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/", "Wired"]
+      - ["https://news.cornell.edu/stories/2025/10/ai-generated-content-triple-threat-reddit-moderators", "Cornell Chronicle"]
     selected: y
 
   - title: "Examining Human-AI Collaboration for Co-Writing Constructive Comments Online"
@@ -85,6 +95,11 @@ papers:
     sourceLink: "https://chi2025.acm.org/"
     preprint: "https://arxiv.org/abs/2409.11360"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3706598.3713564"
+    press:
+      - ["https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts", "The New Yorker"]
+      - ["https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage", "The Verge"]
+      - ["https://www.theatlantic.com/technology/archive/2025/04/great-language-flattening/682627/", "The Atlantic"]
+      - ["https://www.fastcompany.com/91324551/chatgpt-generative-gen-ai-writing-american-western-bias-culture-study", "Fast Company"]
     selected: y
 
   - title: "AI is Perceived as Less Trustworthy and Less Effective when Using Emotional Arguments to Moderate Misinformation"
@@ -169,6 +184,8 @@ papers:
     prereg: "https://aspredicted.org/bz7x7.pdf"
     paper_pdf: "https://www.pnas.org/doi/10.1073/pnas.2208839120"
     year: "2023"
+    press:
+      - ["https://news.cornell.edu/stories/2023/03/ai-or-human-written-language-assumptions-mislead", "Cornell Chronicle"]
     selected: y
 
   - title: "Co-Writing with Opinionated Language Models Affects Users' Views"
@@ -179,6 +196,11 @@ papers:
     data: "https://osf.io/upgqw/"
     paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3544548.3581196"
     award: "Best Paper Honorable Mention"
+    press:
+      - ["https://fortune.com/2024/07/09/ai-chatbots-bias-influence-mastering-ai-book-jeremy-kahn/", "Fortune"]
+      - ["https://www.wsj.com/articles/chatgpt-bard-bing-ai-political-beliefs-151a0fe4", "Wall Street Journal"]
+      - ["https://arstechnica.com/science/2023/05/ai-writing-assistants-can-cause-biased-thinking-in-their-users/", "Ars Technica"]
+      - ["https://news.cornell.edu/stories/2023/05/writing-ai-help-can-shift-your-opinions", "Cornell Chronicle"]
     selected: y
 
   - title: "Artificial Intelligence in Communication Impacts Language and Social Relationships"
@@ -188,6 +210,8 @@ papers:
     preprint: "https://arxiv.org/abs/2102.05756"
     paper_pdf: "https://www.nature.com/articles/s41598-023-30938-9"
     year: "2023"
+    press:
+      - ["https://news.cornell.edu/stories/2023/04/study-uncovers-social-cost-using-ai-conversations", "Cornell Chronicle"]
     selected: n
 
   - title: "Belief in partisan news depends on favorable content more than on a trusted source"
@@ -221,6 +245,12 @@ papers:
     sourceLink: "https://cscw.acm.org/2022/"
     paper_pdf: "https://dl.acm.org/doi/10.1145/3555174"
     preprint: "https://arxiv.org/abs/2203.10143"
+    press:
+      - ["https://www.theatlantic.com/ideas/archive/2023/03/youtube-content-moderation-rules/673322/", "The Atlantic"]
+      - ["https://www.fastcompany.com/90732916/demonetizing-extreme-youtube-creators-may-not-stop-them-from-earning-money", "Fast Company"]
+      - ["https://www.engadget.com/demonetizing-problematic-you-tubers-isnt-effective-researchers-say-172829299.html", "Engadget"]
+      - ["https://www.theverge.com/2022/3/22/22991073/youtube-demonetization-alt-right-cornell-study", "The Verge"]
+      - ["https://news.cornell.edu/stories/2022/03/how-youtube-can-fix-its-demonetization-strategy", "Cornell Chronicle"]
     selected: n
 
   - title: "Stop the [Image] Steal: The Role and Dynamics of Visual Content in the 2020 US Election Misinformation Campaign"
@@ -251,6 +281,8 @@ papers:
     data: "https://voterfraud2020.io/"
     venue: "ICWSM 2021"
     paper_pdf: "https://doi.org/10.1609/icwsm.v15i1.18113"
+    press:
+      - ["https://www.washingtonpost.com/technology/2022/09/20/social-media-influencers-election-fraud/", "Washington Post"]
     selected: n
 
   - title: "'Positive Energy': Perceptions and Attitudes Towards COVID-19 Information on Social Media in China"
@@ -282,6 +314,8 @@ papers:
     venue: "Truth and Trust Online (TTO) 2020"
     sourceLink: "https://truthandtrustonline.com/"
     paper_pdf: "https://mauricejakesch.com/assets/pdf/tto2020_partisan_crowd_influence.pdf"
+    press:
+      - ["https://news.cornell.edu/stories/2021/01/people-follow-crowd-no-matter-its-politics", "Cornell Chronicle"]
     selected: n
 
   - title: "AI-Mediated Communication: Definition, Research Agenda, and Ethical Considerations"
@@ -308,6 +342,8 @@ papers:
     preprint: "https://arxiv.org/abs/2005.04412"
     data: "https://figshare.com/articles/U_S_Midterm_ Election_Twitter_Dataset_2018/11374062"
     award: "Best Paper Honorable Mention"
+    press:
+      - ["https://lamag.com/politics/kicked-off-twitter-trump/", "LA Mag"]
     selected: y
     
   - title: "The Government`s Dividend: Complex Perceptions of Social Media Misinformation in China"
@@ -350,6 +386,8 @@ papers:
     preprint: "https://www.mauricejakesch.com/assets/pdf/chi2019__ai_mc_camera_ready.pdf"
     prereg: "https://osf.io/qg3m2/registrations"
     data: "https://osf.io/qg3m2/"
+    press:
+      - ["https://news.cornell.edu/stories/2019/04/ai-generated-profiles-airbnb-users-prefer-human-touch", "Cornell Chronicle"]
     selected: y
 
   - title: "DejaVu: A System for Journalists to Collaboratively Address Visual Misinformation"
@@ -364,6 +402,8 @@ papers:
     venue: "Computation + Journalism 2019"
     sourceLink: "http://cplusj.org/"
     paper_pdf: "https://people.jacobs.cornell.edu/mor/publications/thegoods/jakesch_cplusj19__trustnews.pdf"
+    press:
+      - ["https://news.cornell.edu/stories/2019/02/people-admit-they-trust-news-stories-contradict-their-views-price", "Cornell Chronicle"]
     selected: n
 
   - title: "More than Just Words: Modeling Non-textual Characteristics of Podcasts"
@@ -380,6 +420,9 @@ papers:
     sourceLink: "http://wacv19.wacv.net/"
     paper_pdf: "https://www.computer.org/csdl/proceedings-article/wacv/2019/197500a511/18j8LbuM1tS"
     preprint: "https://arxiv.org/pdf/1811.10648.pdf"
+    press:
+      - ["https://cornellsun.com/2019/01/22/cornell-research-shows-poor-image-quality-can-affect-online-sales/", "Cornell Sun"]
+      - ["https://news.cornell.edu/stories/2019/01/seeing-believing-depends-photo-quality-study-says", "Cornell Chronicle"]
 
   - title: "ShareBox: Designing A Physical System to Support Resource Exchange in Local Communities"
     authors: "Matthew Law, Mor Naaman, Nicola Dell"
@@ -440,6 +483,8 @@ papers:
     data: "https://github.com/sTechLab/AirbnbHosts"
     paper_pdf: "https://s.tech.cornell.edu/assets/papers/ma2017airbnb.pdf"
     award: "Best Paper Honorable Mention"
+    press:
+      - ["http://observer.com/2017/03/tips-how-to-make-best-airbnb-listing/", "NY Observer"]
     selected: y
 
   - title: "What Happens in happn? The Warranting Power of Location History"
@@ -553,6 +598,8 @@ papers:
     sourceLink: "https://chi2012.acm.org/"
     paper_pdf: "http://www.munmund.net/pubs/chi_2012.pdf"
     award: "Best Paper Honorable Mention"
+    press:
+      - ["http://mashable.com/2012/02/15/seriously-rapid-source-review/", "Mashable"]
     selected: y
 
   - title: "Making a Scene: Alignment of Complete Sets of Clips based on Pairwise Audio Match"
@@ -661,6 +708,13 @@ papers:
     sourceLink: "http://www.cscw2010.org/"
     paper_pdf: "https://dl.acm.org/authorsize?N26254"
     selected: y
+    press:
+      - ["https://mashable.com/2009/09/29/meformers/", "Mashable"]
+      - ["https://www.federalnewsradio.com/?nid=19&sid=1782410", "Federal News Radio"]
+      - ["https://www.miamiherald.com/2009/11/23/1347621/are-you-a-meformer-or-an-informer.html", "Miami Herald"]
+      - ["https://blogs.wsj.com/digits/2009/10/05/what-kind-of-twitterer-are-you/", "WSJ Blogs"]
+      - ["https://schott.blogs.nytimes.com/2009/10/07/meformers/", "NY Times Blogs"]
+      - ["https://www.pcworld.com/article/173064/twitter_it_really_is_all_about_you.html", "PC World"]
 
   - title: "Requirements for Mobile Photoware"
     year: "2010"
