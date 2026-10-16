@@ -17,6 +17,9 @@ papers:
     paper_pdf: "https://www.science.org/doi/10.1126/sciadv.adw5578"
     preprint: "https://osf.io/preprints/psyarxiv/mhjn6"
     year: "2026"
+    press:
+      - ["https://www.sciencenews.org/article/ai-autocomplete-social-issues-views", "Science News"]
+      - ["https://news.cornell.edu/stories/2026/03/ai-assistants-can-sway-writers-attitudes-even-when-theyre-watching-bias", "Cornell Chronicle"]
     selected: y
 
   - title: "Reactive Writers: How Co-Writing with AI Changes How We Engage with Ideas"

@@ -53,6 +53,9 @@ canonical_url: http://www.mornaaman.com
           {% if paper.award %}
           <p><i class="fa fa-trophy" style="color:#1EAEDB"></i> {{ paper.award }}</p>
           {% endif %}
+          {% if paper.press %}
+          <p><i>Press:</i> {% for item in paper.press %}<a href="{{ item[0] }}" target="_blank">{{ item[1] }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+          {% endif %}
           <div class="paper-buttons">
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
@@ -99,6 +102,9 @@ canonical_url: http://www.mornaaman.com
           <p><i>{{ paper.venue }}</i>{% if paper.year %}. {{ paper.year }}.{% endif %}</p>
           {% if paper.award %}
           <p><i class="fa fa-trophy" style="color:#1EAEDB"></i> {{ paper.award }}</p>
+          {% endif %}
+          {% if paper.press %}
+          <p><i>Press:</i> {% for item in paper.press %}<a href="{{ item[0] }}" target="_blank">{{ item[1] }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
           {% endif %}
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
