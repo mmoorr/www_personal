@@ -101,7 +101,13 @@
               </span>
               {% endif %}
 
-              {% if site.data.main_info.threads %}
+              {% if site.data.main_info.instagram %}
+              <span onclick="window.open('{{ site.data.main_info.instagram }}')" style="cursor: pointer">
+                <i class="fa-brands fa-instagram fa-lg"></i>
+              </span>
+              {% endif %}
+
+				{% if site.data.main_info.threads %}
               <span onclick="window.open('{{ site.data.main_info.threads }}')" style="cursor: pointer">
                 <i class="fa-brands fa-threads fa-lg"></i>
               </span>
