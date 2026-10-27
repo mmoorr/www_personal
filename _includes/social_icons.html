@@ -1,0 +1,42 @@
+<!-- Social icons, driven by _data/main_info.yaml -->
+{% if site.data.main_info.bsky %}
+<span onclick="window.open('{{ site.data.main_info.bsky }}')" style="cursor: pointer">
+  <i class="fa-brands fa-bluesky" style="padding-top: 10px"></i>
+</span>
+{% endif %}
+
+{% if site.data.main_info.instagram %}
+<span onclick="window.open('{{ site.data.main_info.instagram }}')" style="cursor: pointer">
+  <i class="fa-brands fa-instagram fa-lg"></i>
+</span>
+{% endif %}
+
+{% if site.data.main_info.threads %}
+<span onclick="window.open('{{ site.data.main_info.threads }}')" style="cursor: pointer">
+  <i class="fa-brands fa-threads fa-lg"></i>
+</span>
+{% endif %}
+
+{% if site.data.main_info.twitter %}
+<span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
+  <i class="fa-brands fa-twitter fa-lg"></i>
+</span>
+{% endif %}
+
+{% if site.data.main_info.linkedin %}
+<span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
+  <i class="fa-brands fa-linkedin fa-lg"></i>
+</span>
+{% endif %}
+
+{% if site.data.main_info.github %}
+<span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
+  <i class="fa-brands fa-github fa-lg"></i>
+</span>
+{% endif %}
+
+{% if site.data.main_info.google_scholar %}
+<span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
+  <i class="ai ai-google-scholar ai-lg"></i>
+</span>
+{% endif %}

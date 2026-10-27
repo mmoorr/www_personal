@@ -76,6 +76,11 @@
           {% if page.subtitle %}
           <h5 style="color: #999;">{{ page.subtitle }}</h5>
           {% endif %}
+          <p class="post-links">
+            <a href="{{ site.baseurl }}/"><i class="fa-solid fa-house"></i> Homepage</a>
+            <span class="post-links-divider"></span>
+            {% include social_icons.html %}
+          </p>
         </div>
         <div class="three columns" style="text-align: right;">
           <img src="{{ page.header_image | prepend: site.baseurl }}" alt="{{ page.header_image_alt }}" style="max-height: 200px; width: auto;">
@@ -86,6 +91,11 @@
       {% if page.subtitle %}
       <h5 style="color: #999;">{{ page.subtitle }}</h5>
       {% endif %}
+      <p class="post-links">
+        <a href="{{ site.baseurl }}/"><i class="fa-solid fa-house"></i> Homepage</a>
+        <span class="post-links-divider"></span>
+        {% include social_icons.html %}
+      </p>
       {% endif %}
     </section>
 
