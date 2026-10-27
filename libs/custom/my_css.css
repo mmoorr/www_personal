@@ -191,3 +191,10 @@ h4 {
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
 }
+
+/* Blog posts list on the AI course page */
+.blog-posts h6 { margin: 1.5em 0 0.3em; padding-bottom: 0.2em; border-bottom: 1px solid #ddd; font-weight: 600; }
+.blog-posts .post-context { font-weight: 300; color: #999; }
+.blog-posts ul { list-style: none; margin: 0; }
+.blog-posts li { margin-bottom: 0.3em; }
+.post-date { display: inline-block; min-width: 7.5em; color: #999; font-size: 0.85em; }

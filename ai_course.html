@@ -52,7 +52,35 @@ I am the Don and Mibs Follett Professor of Information Science at <a href="https
     </li>
     {% endfor %}
   </ul>
-  
+
+  <!-- Blog posts: general posts first (newest first), then per course offering (oldest first) -->
+  {% capture blog_list %}
+    {% if site.data.course.posts %}
+    {% assign general = site.data.course.posts | sort: "date" | reverse %}
+    <h6>General</h6>
+    <ul>
+      {% for post in general %}
+      <li><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% for offer in site.data.course.offerings %}{% if offer.posts %}
+    {% assign country_posts = offer.posts | sort: "date" %}
+    <h6>{{ offer.country }} <span class="post-context">· {{ offer.host }}</span></h6>
+    <ul>
+      {% for post in country_posts %}
+      <li><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> <a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}{% endfor %}
+  {% endcapture %}
+
+  {% if blog_list contains "<li" %}
+<h4>Notes from the Road</h4>
+  <p>Reflections on the journey so far.</p>
+  <div class="blog-posts">{{ blog_list }}</div>
+  {% endif %}
+
 <h4>Interested in Hosting?</h4>
 
   <p>

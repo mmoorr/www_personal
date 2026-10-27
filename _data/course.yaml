@@ -1,8 +1,18 @@
+# General posts, not tied to a specific course offering
+posts:
+
 offerings:
 
   - date: "September 18-20, 2026"
     country: "Bhutan"
     host: "College of Science and Technology (Royal University of Bhutan), Phuentsholing"
+    posts:
+      - date: 2026-10-20
+        title: "AI Rinpoche: Teaching AI & Society in Bhutan (Part 1)"
+        url: "https://www.linkedin.com/pulse/ai-rinpoche-teaching-society-bhutan-part-1-mor-naaman-o9gne/"
+      - date: 2026-10-24
+        title: "Teaching in Bhutan: From a Quiet Classroom to a Haunted House"
+        url: "https://www.linkedin.com/pulse/teaching-bhutan-from-quiet-classroom-haunted-house-mor-naaman-qa0de/"
 
   - date: "September 30-October 2, 2026"
     country: "Bangladesh"
