@@ -20,6 +20,10 @@ offerings:
   - date: "September 30-October 2, 2026"
     country: "Bangladesh"
     host: "North South University, Dhaka"
+    posts:
+      - date: 2026-11-02
+        title: "Dhaka (Part 1): A VIP for Five Days"
+        url: "https://www.linkedin.com/pulse/dhaka-part-1-vip-five-days-mor-naaman-qmjoc/"
 
   - date: "November 11-14, 2026"
     country: "Ecuador"
