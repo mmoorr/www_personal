@@ -1,5 +1,9 @@
 news_items:
 
+  - item: "Part of a great Cornell team to receive $10M from the Laude Institute for our Moonshot to strengthen civic discourse in the age of AI."
+    date: "Oct 2026"
+    link: "https://www.laude.org/updates/moonshots-one-labs"
+    
   - item: "New NSF Award with Eric Gilbert (Michigan) on Understanding the Wide-scale Impact of Generative AI on Online Communities"
     date: "Aug 2026"
     link: "https://www.nsf.gov/awardsearch/show-award?AWD_ID=2615552"
@@ -9,7 +13,7 @@ news_items:
     link: "https://mmoorr.github.io/www_personal/ai_course.html"
 
   - item: "Best Paper Honorable Mention for the paper led by Travis Lloyd at CSCW 2025 on Moderating AI-Generated Content on Reddit"
-    date: "Oct 2026"
+    date: "Oct 2025"
     link: "https://dl.acm.org/doi/10.1145/3757445"
   
   - item: "Gave keynote talk at ACM Web Science 2025: Revisiting AI-Mediated Communication"
